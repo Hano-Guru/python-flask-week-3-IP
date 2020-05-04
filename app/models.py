@@ -82,3 +82,4 @@ class Role(db.Model):
 
     def __repr__(self):
         return f'User {self.name}'
+ 
