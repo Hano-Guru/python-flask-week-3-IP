@@ -24,3 +24,9 @@ user is authenticated and home page is displayed
 Pitches forms are displayed
 pitch is added to list of pitches and is displayed on users profile
 List of pitches craeted by the user are displayed
+
+# Technologies Used
+.Python
+.CSS
+.HTML
+.Git
