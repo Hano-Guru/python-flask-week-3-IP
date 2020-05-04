@@ -24,3 +24,4 @@ class CommentTest(unittest.TestCase):
         self.new_comment.save_comment()
         got_comments=Comments.get_comments(10)
         self.assertTrue(len(got_comments)==1)
+ 
