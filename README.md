@@ -30,3 +30,5 @@ List of pitches craeted by the user are displayed
 .CSS
 .HTML
 .Git
+
+# Contact Information
