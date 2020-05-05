@@ -12,8 +12,8 @@ This is web application that allows users to pitch their ideas and can store the
 # BDD
 
 ## Behavior	
-User sign-up.	
-User logins.	
+### User sign-up.	
+### User logins.	
 User clicks on pitches button.	
 User clicks on add pitches button.	
 User clicks on profile.
